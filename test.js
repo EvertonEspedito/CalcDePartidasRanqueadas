@@ -4,7 +4,7 @@ function saldoRanked (vitorias, derrotas) {
         return calcSaldo //depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)
  }
 
-let totalVitorias = saldoRanked(75, 44)
+let totalVitorias = saldoRanked(75, 44)//Vitorias e Derrotas
 let elo
 
 
